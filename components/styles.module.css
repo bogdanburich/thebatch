@@ -117,6 +117,17 @@
   color: #777777;
 }
 
+.coffeLogoDark {
+  width: 40px;
+  height: 40px;
+  fill: white;
+}
+.coffeLogoWhite {
+  width: 40px;
+  height: 40px;
+  fill: #000000;
+}
+
 .comments {
   width: 100%;
   margin-top: 2em;
